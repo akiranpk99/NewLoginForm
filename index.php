@@ -8,6 +8,7 @@
         Them Xem Danh Sach
     </a>
     <input type="button" value="HelloWorld">
+    <input type="button" value="GoodbyeWorld">
 <?php 
     require_once "./footer.php"
     ?>
