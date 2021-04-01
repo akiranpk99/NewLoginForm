@@ -7,6 +7,7 @@
     href="./Views/AddSP.php">
         Them Xem Danh Sach
     </a>
+    <input type="button" value="HelloWorld">
 <?php 
     require_once "./footer.php"
     ?>
